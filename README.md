@@ -1,16 +1,5 @@
-# recipie_trial
+# RecipieMaster
 
-A new Flutter project.
+Recipe Master is an app designed to help you discover, manage, and organise  your favourite recipes. Whether you're an experienced chef or just getting started, this app provides a user-friendly interface for adding, viewing, and organising your culinary creations
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
